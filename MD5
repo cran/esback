@@ -1,0 +1,15 @@
+0d045895fcb49f9386617194426256b2 *DESCRIPTION
+162c690ac7f8371bb1e93499aa4687cd *NAMESPACE
+b003ee061c4530e57336a7e0c1432570 *NEWS.md
+f7349625219d9bd8bb7f8c2da6f88155 *R/backtest_functions.R
+97314267675aa2ccb59fa259e368ba41 *R/data.R
+719e40966de5669383373de0654b3ea5 *R/esback.R
+71dd20a6c7e147122e9b1e7bbd094732 *R/utility_functions.R
+8bfd5c5cf3df0a7a211265ef927bbb87 *README.md
+3d41b9701490250bde7822e903f5765a *data/risk_forecasts.rda
+0cf765fca50ee7f6309759e5c191e8ab *man/cc_backtest.Rd
+3975b8e2a82c8ade2edfe86e2dc1cbc5 *man/er_backtest.Rd
+d48d5ac5d8528fe9c5d50e3c38de22b1 *man/esback.Rd
+eb54b5bc38166896759e2210a71ca0b7 *man/esr_backtest.Rd
+58599815c465da75c52c8e8d914af9c6 *man/parameter_definition.Rd
+ae404b4d484dec4309a33e62f6fc1d65 *man/risk_forecasts.Rd
